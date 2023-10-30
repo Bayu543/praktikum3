@@ -137,11 +137,11 @@
 * line 14 : menghasilkan output keliling menggunakan f string
 
 >output
-<img src="Screenshot/Lingkaran_output.png">
+<img src="screenshot/Screenshot_hasil lingkaran.png">
 
 ### Flowchart
 
-<img src="Screenshot/Flowchart_Pic.png">
+<img src="screenshot/ss_flowchart.jpg">
 
 * Masukkan jari-jari lingkaran (r)
 * Hitung Luas Lingkaran dengan rumus L = pi * r * r
